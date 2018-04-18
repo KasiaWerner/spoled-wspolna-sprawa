@@ -36,6 +36,5 @@
   text-decoration: none !important;    
   display: block;
   position: relative;
-  top: -250px;
-  visibility: hidden;  
+  top: -250px; 
 }
