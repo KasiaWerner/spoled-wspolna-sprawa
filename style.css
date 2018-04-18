@@ -2,15 +2,15 @@
 .navbar{
     padding-top: 15px !important;
     padding-bottom: 15px !important;
-    background-color: #82b2e0 !important;
-    color: #292b2b !important;
-    font-size: 15px !important;
+    background-color: #73cdf4 !important;
+    color: #4e5655 !important;
+    font-size: 18px !important;
 }
 
 .jumbotron{
     position: relative;
     padding-top: 100px !important;
-    margin-top: -1px !important; 
+    margin-top: -2px !important; 
     background-color: #6ecbef !important;
     text-align: center;
     margin-bottom: 40px !important;
