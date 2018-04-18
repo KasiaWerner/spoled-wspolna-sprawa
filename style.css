@@ -8,6 +8,10 @@
     font-size: 17px !important;
 }
 
+.navbar-fixed-top{
+    margin: 0 !important;
+}
+
 .jumbotron{
     position: relative;
     padding-top: 100px !important;
