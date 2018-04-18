@@ -13,5 +13,6 @@
   margin-top: 50px;  
   margin-bottom: 25px;  
   font-size: 45px; 
-  color: #606263 !important;  
+  color: #606263 !important; 
+  text-decoration: none !important;   
 }
