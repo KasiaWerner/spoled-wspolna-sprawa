@@ -10,7 +10,7 @@
 .jumbotron{
     position: relative;
     padding-top: 100px !important;
-    margin-top: 0 !important; 
+    margin-top: -1px !important; 
     background-color: #6ecbef !important;
     text-align: center;
     margin-bottom: 40px !important;
