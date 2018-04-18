@@ -12,12 +12,12 @@
     margin-bottom: 0 !important;
 }
 
-.logo-nav{
-    height: 60px;
-    width: 60px;
-    margin: 0;
-    padding: 0;
-    vertical-align: middle;
+.navbar .navbar-brand {
+  padding-top: 5px;
+}
+.navbar .navbar-brand img {
+  height: 50px;
+  width: 50px;
 }
 
 .jumbotron{
