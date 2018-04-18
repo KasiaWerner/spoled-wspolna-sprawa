@@ -33,5 +33,9 @@
 
 .a-tytul{
   color: #606263 !important; 
-  text-decoration: none !important;       
+  text-decoration: none !important;    
+  display: block;
+  position: relative;
+  top: -250px;
+  visibility: hidden;  
 }
