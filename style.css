@@ -2,15 +2,16 @@
 .jumbotron{
     position: relative;
     padding:0;
-    margin-top:70px !important; 
+    margin-top:90px !important; 
     background-color: #6ecbef !important;
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 40 !important;
 }
 
 .tytul{
   text-align: center;  
   margin-top: 50px;  
   margin-bottom: 25px;  
-  font-size: 45px;  
+  font-size: 45px; 
+  color: #606263;  
 }
