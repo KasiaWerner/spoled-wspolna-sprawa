@@ -13,11 +13,11 @@
 }
 
 .logo-nav{
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     margin: 0;
     padding: 0;
-    display: inline !important;
+    vertical-align: middle;
 }
 
 .jumbotron{
