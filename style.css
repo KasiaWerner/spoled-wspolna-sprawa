@@ -51,3 +51,8 @@
   padding-top: 75px; 
   margin-top: -75px; 
 }
+
+.media-object {
+  height: 226px;
+  width: 320px;
+}
