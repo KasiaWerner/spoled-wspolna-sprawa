@@ -52,7 +52,7 @@
   margin-top: -75px; 
 }
 
-.media-object img {
+.media .media-left .media-object img {
   height: 226px;
   width: 320px;
 }
