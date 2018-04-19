@@ -13,11 +13,11 @@
 }
 
 .navbar .navbar-brand {
-  padding-top: 2px;
+  padding-top: 0;
 }
 .navbar .navbar-brand img {
-  height: 55px;
-  width: 55px;
+  height: 60px;
+  width: 60px;
 }
 
 .jumbotron{
