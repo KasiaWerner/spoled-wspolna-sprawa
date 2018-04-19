@@ -1,5 +1,5 @@
 
-.navbar{
+.navbar {
     padding-top: 6px !important;
     padding-bottom: 6px !important;
     margin-bottom: 0 !important;
@@ -15,13 +15,14 @@
 .navbar .navbar-brand {
   padding-top: 0;
   padding-bottom: 5px;  
+  margin-top: -2px;
 }
 .navbar .navbar-brand img {
   height: 60px;
   width: 60px;
 }
 
-.jumbotron{
+.jumbotron {
     position: relative;
     padding-top: 100px !important;
     margin-top: 0 !important; 
@@ -31,7 +32,7 @@
     /*border-top: 40px !important; */
 }
 
-.tytul{
+.tytul {
   text-align: center;  
   margin-top: 0;  
   margin-bottom: 25px;  
@@ -40,11 +41,11 @@
   text-decoration: none !important;   
 }
 
-.h3{
+.h3 {
     text-align: center;  
 }
 
-.a-tytul{
+.a-tytul {
   color: #606263 !important; 
   text-decoration: none !important;    
   padding-top: 75px; 
