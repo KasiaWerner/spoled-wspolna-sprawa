@@ -38,6 +38,7 @@ h3 {
 }
 
 .jumbotron {
+    font-weight: black !important;
     position: relative;
     padding-top: 100px !important;
     margin-top: 0 !important; 
