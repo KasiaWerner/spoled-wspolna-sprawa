@@ -61,6 +61,13 @@ p {
     color: #353535;
 }
 
+.container {
+    padding-right: 40px;
+    padding-left: 15px;
+    margin-right: 70px;
+    margin-left: 70px;
+
+}
 
 .tytul {
   text-align: center;  
