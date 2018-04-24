@@ -2,6 +2,15 @@ body {
     font-family: 'Rubik', sans-serif !important;
 }
 
+h1 {
+    font-style: 900;
+}
+
+h2 {
+    font-style: 700;
+}
+    
+
 .navbar {
     padding-top: 6px !important;
     padding-bottom: 6px !important;
