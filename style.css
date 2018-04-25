@@ -69,6 +69,14 @@ p {
 
 } */
 
+.col-md-offset-1 {
+    margin-left: 0;
+}
+
+.col-md-10 {
+  width: 0;
+}
+
 .tytul {
   text-align: center;  
   margin-top: 0;  
