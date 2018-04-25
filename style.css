@@ -61,21 +61,7 @@ p {
     color: #353535;
 }
 
-/*.container {
-    padding-right: 40px !important;
-    padding-left: 15px !important;
-    margin-right: 70px !important;
-    margin-left: 70px !important;
 
-} */
-
-.col-md-offset-1 {
-    margin-left: 0;
-}
-
-.col-md-10 {
-  width: 0;
-}
 
 .tytul {
   text-align: center;  
@@ -103,6 +89,17 @@ p {
 .part {
    margin-bottom: 60px;
 }
+
+.myImage {
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.image-left {
+  max-width: 100%;
+  float: left !important;
+}
+
 .films {
     margin-top: 30px !important;
 }
