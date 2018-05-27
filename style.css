@@ -62,7 +62,10 @@ p {
     color: #353535;
 }
 
-
+.container {
+    margin-left: 150px;
+    margin-right: 150px;
+}
 
 .tytul {
   text-align: center;  
