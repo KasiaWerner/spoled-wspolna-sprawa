@@ -63,8 +63,8 @@ p {
 }
 
 .container {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 150px !important;
+    margin-right: 150px !important;
 }
 
 .tytul {
