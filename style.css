@@ -49,12 +49,11 @@ p {
 
 .jumbotron {
     position: relative;
-    height: 500px;
+    height: 1000px;
     padding-top: 100px !important;
     margin-top: 0 !important; 
     background: url("img/wspolna_sprawa_jumbotron.png") !important;
     background-color: #FFF8C3 !important;
-    background-size: 50%;
     text-align: left;
     margin-bottom: 40px !important;
     /*border-top: 40px !important; */
