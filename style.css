@@ -51,8 +51,8 @@ p {
     position: relative;
     padding-top: 100px !important;
     margin-top: 0 !important; 
-    background-image: url("https://github.com/KasiaWerner/spoled-wspolna-sprawa/blob/gh-pages/img/wspolna_sprawa_jumbotron.png");
-    background-color: #cccccc;
+    background-image: url("https://github.com/KasiaWerner/spoled-wspolna-sprawa/blob/gh-pages/img/wspolna_sprawa_jumbotron.png") !important;
+    background-color: #f9eb7d !important;
     text-align: left;
     margin-bottom: 40px !important;
     /*border-top: 40px !important; */
