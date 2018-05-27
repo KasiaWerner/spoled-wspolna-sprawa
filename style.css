@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 30px !important;
 }
 
 h2 {
@@ -51,7 +51,7 @@ p {
     position: relative;
     padding-top: 100px !important;
     margin-top: 0 !important; 
-    background: url("img_wspolna_sprawa_jumbotron.png") !important;
+    background: url("img/wspolna_sprawa_jumbotron.png") !important;
     background-color: #f9eb7d !important;
     text-align: left;
     margin-bottom: 40px !important;
