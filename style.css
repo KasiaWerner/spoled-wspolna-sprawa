@@ -51,8 +51,8 @@ p {
     position: relative;
     padding-top: 100px !important;
     margin-top: 0 !important; 
-    background-color: #6ecbef !important;
-    text-align: center;
+    background-image: url("wspolna_sprawa_jumbotron.png");
+    text-align: left;
     margin-bottom: 40px !important;
     /*border-top: 40px !important; */
 }
