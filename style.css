@@ -54,13 +54,14 @@ p {
     background-image: url("https://github.com/KasiaWerner/spoled-wspolna-sprawa/blob/gh-pages/img/wspolna_sprawa_jumbotron.png");
     background-color: #cccccc;
     text-align: left;
-    margin-bottom: 25px !important;
+    margin-bottom: 40px !important;
     /*border-top: 40px !important; */
 }
 
 .jumbotron .h1 {
     font-family: 'Rubik', sans-serif !important;
     color: #353535;
+    font-size: 30px;
 }
 
 .container {
