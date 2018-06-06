@@ -60,7 +60,8 @@ p {
     background: url("img/wspolna_sprawa_jumbotron_small.jpg") !important;
     background-color: #FFF8C3 !important;
     background-repeat: no-repeat !important;
-    background-position: center !important;
+    background-position: 75% 50% !important;
+    background-size: 50% !important;
     text-align: left;   
 }
 
