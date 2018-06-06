@@ -55,6 +55,7 @@ p {
     margin-top: 0 !important; 
     background: url("img/wspolna_sprawa_jumbotron_small.jpg") !important;
     background-color: #FFF8C3 !important;
+    background-repeat: no-repeat;
     text-align: left;
     margin-bottom: 40px !important;
     /*border-top: 40px !important; */
