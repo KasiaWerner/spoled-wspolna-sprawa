@@ -61,23 +61,8 @@ p {
     background-color: #FFF8C3 !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
-    text-align: left;
-    margin-bottom: 40px !important;
-    /*border-top: 40px !important; */
+    text-align: left;   
 }
-
-.jumbotron .h1 {
-    font-family: 'Rubik', sans-serif !important;
-    color: #43465b !important;
-    
-}
-
-/* .container {
-    margin-left: 75px !important;
-    margin-right: 150px !important;
-    padding-left: 230px !important;
-   padding-right: 200px !important;    
-} */
 
 .tytul {
   text-align: center;  
