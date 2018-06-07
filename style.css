@@ -36,6 +36,12 @@ p {
 }
     
 
+@media (min-width: 768px) and (max-width: 915px) {
+   .collapse {
+       display: none !important;
+   }
+}
+
 .jumbotron {
     position: relative;
     height: 450px; 
