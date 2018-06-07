@@ -27,8 +27,8 @@ p {
   margin-top: -6px;
 }
 .navbar .navbar-brand img {
-  height: 61px;
-  width: 61px;
+  /* height: 61px;
+  width: 61px; */
 }
 
 .navbar-default .navbar-nav>li>a {
