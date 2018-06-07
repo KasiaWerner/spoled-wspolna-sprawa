@@ -26,6 +26,11 @@ p {
   padding-bottom: 4px;  
   margin-top: -6px;
 }
+
+.navbar .navbar-brand .a {
+    padding-left: 0 !important;
+}
+
 .navbar .navbar-brand img {
   height: 63px;
   
