@@ -38,7 +38,7 @@ p {
 
 .jumbotron {
     position: relative;
-    /*height: 500px; */
+    height: 400px; 
     padding-top: 100px !important;
     margin-top: 0 !important; 
     padding-bottom: 0 !important;
@@ -61,7 +61,7 @@ p {
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     .jumbotron h1 {
-        font-size: 4em;
+        font-size: 50px !important;
         margin-top: 0 !important;
         margin-left: 0 !important;
     }
@@ -70,16 +70,9 @@ p {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .jumbotron h1 {
-        font-size: 6em;
+        font-size: 60px !important;
         margin-top: 0 !important;
         margin-left: 0 !important;
-    }
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    .jumbotron h1 {
-        font-size: 8em;
     }
 }
 
