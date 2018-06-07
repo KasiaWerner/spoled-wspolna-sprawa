@@ -38,7 +38,7 @@ p {
 
 .jumbotron {
     position: relative;
-    height: 500px; 
+    /*height: 500px; */
     padding-top: 100px !important;
     margin-top: 0 !important; 
     padding-bottom: 0 !important;
@@ -62,6 +62,8 @@ p {
 @media (min-width: 768px) {
     .jumbotron h1 {
         font-size: 4em;
+        margin-top: 0 !important;
+        margin-left: 0 !important;
     }
 }
 
@@ -69,6 +71,8 @@ p {
 @media (min-width: 992px) {
     .jumbotron h1 {
         font-size: 6em;
+        margin-top: 0 !important;
+        margin-left: 0 !important;
     }
 }
 
