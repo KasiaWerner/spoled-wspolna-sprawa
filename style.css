@@ -47,7 +47,7 @@ p {
     background-color: #FFF8C3 !important;
     background-repeat: no-repeat !important;
     background-position: 75% 50% !important;
-    background-size: 70% !important;
+    background-size: 50% !important;
     text-align: left;   
 }
 
@@ -55,7 +55,7 @@ p {
     font-size: 65px !important; 
     color: #43465b !important;
     font-family: 'Rubik Light', sans-serif !important;
-    margin-top: 50px !important;
+    margin-top: 70px !important;
     margin-left: 60px !important;
 }
 /* Small devices (tablets, 768px and up) */
