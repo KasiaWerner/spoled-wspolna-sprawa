@@ -24,12 +24,11 @@ p {
 .navbar .navbar-brand {
   padding-top: 0;
   padding-bottom: 4px;  
+  padding-left: 0 !important;  
   margin-top: -6px;
+    
 }
 
-.navbar .navbar-brand .a {
-    padding-left: 0 !important;
-}
 
 .navbar .navbar-brand img {
   height: 63px;
