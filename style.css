@@ -57,7 +57,7 @@ p {
     font-family: 'Rubik Light', sans-serif !important;
     margin-top: 50px !important;
     margin-left: 60px !important;
-
+}
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     .jumbotron h1 {
