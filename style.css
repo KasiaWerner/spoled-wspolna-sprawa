@@ -61,16 +61,16 @@ p {
 /* Small devices (tablets, 768px and up) */
 @media screen and (max-width: 769px) {
     .jumbotron h1 {
-        font-size: 50px !important;
+        font-size: 60px !important;
         margin-top: 0 !important;
         margin-left: 0 !important;
     }
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media screen and (min-width: 370px) {
+@media screen and (max-width: 370px) {
     .jumbotron h1 {
-        font-size: 60px !important;
+        font-size: 50px !important;
         margin-top: 0 !important;
         margin-left: 0 !important;
     }
