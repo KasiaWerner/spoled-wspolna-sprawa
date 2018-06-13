@@ -76,7 +76,7 @@ p {
     margin-left: 60px !important;
 }
 /* Small devices (tablets, 768px and up) */
-@media screen and (min-width: 769px) {
+@media screen and (max-width: 946px) {
     .jumbotron h1 {
         font-size: 60px !important;
         margin-left: 0 !important;
