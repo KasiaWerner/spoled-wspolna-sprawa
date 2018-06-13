@@ -48,6 +48,10 @@ p {
    }
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
 .jumbotron {
     position: relative;
     height: 450px; 
