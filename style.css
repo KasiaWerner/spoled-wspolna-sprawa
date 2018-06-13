@@ -15,6 +15,7 @@ p {
     color: #FFFFFF !important;
     background-color: #2b618c !important;
     font-size: 18px !important;
+    border: 0 !important;
 }
 
 .navbar-fixed-top{
