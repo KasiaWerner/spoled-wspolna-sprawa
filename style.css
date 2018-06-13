@@ -53,6 +53,7 @@ p {
     
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color: #2b618c !important;
+        border: 0 !important;
     }
    
     .navbar-header {
