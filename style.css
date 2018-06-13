@@ -92,7 +92,7 @@ p {
 @media screen and (max-width: 768px) {
     .jumbotron {
         height: auto !important;
-        background-image: none;
+        background-size: 0 !important;
         background-color: #FFF8C3 !important;
     }
     
