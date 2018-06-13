@@ -92,7 +92,7 @@ p {
 @media screen and (max-width: 768px) {
     .jumbotron {
         height: auto !important;
-        background: none !important;
+        background: url("") !important;
     }
     
     .jumbotron h1 {
