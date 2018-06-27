@@ -19,6 +19,10 @@ p {
     width: 100% !important;
 }
 
+.navbar-default {
+    width: 100% !important;
+}
+
 .navbar-fixed-top{
     margin-bottom: 0 !important;
 }
