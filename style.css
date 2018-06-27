@@ -182,6 +182,7 @@ li {
 
 .blue {
     background-color: #aed3d6 !important;
+    background-size: cover !important;
 }
 
 .myImage {
