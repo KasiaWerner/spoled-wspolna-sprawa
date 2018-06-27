@@ -180,6 +180,10 @@ li {
    margin-bottom: 60px;
 }
 
+.blue {
+    background-color: #aed3d6 !important;
+}
+
 .myImage {
   margin-right: 10px;
   margin-bottom: 0px;
