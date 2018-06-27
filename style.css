@@ -180,7 +180,7 @@ li {
    margin-bottom: 60px;
 }
 
-.blue {
+.container-fluid .blue {
     background-color: #aed3d6 !important;
     width: 100% !important;
 }
