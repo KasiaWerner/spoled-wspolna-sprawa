@@ -180,9 +180,10 @@ li {
    margin-bottom: 60px;
 }
 
-.container-fluid .blue {
+.blue {
     background-color: #aed3d6 !important;
     width: 100% !important;
+    margin-left: -100px !important;
 }
 
 .myImage {
