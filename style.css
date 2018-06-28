@@ -213,7 +213,15 @@ li {
 }
 
 #footer-img-1 {
- max-height: 90px;   
+ max-height: 70px;   
+}
+
+#footer-img-2 {
+ max-height: 70px;   
+}
+
+#footer-img-3 {
+ max-height: 70px;   
 }
 
 #site-footer {
