@@ -251,13 +251,15 @@ li {
     margin-left: auto;
     margin-right: auto;
     padding-top: 8px;
-    padding-bottom: 8px;    
+    padding-bottom: 8px;  
+    max-height: 60px;
 }
     #footer-img-3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 8px;
-    padding-bottom: 8px;    
+    padding-bottom: 8px;  
+    max-height: 50px;    
 }
 }
