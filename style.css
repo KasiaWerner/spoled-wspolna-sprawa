@@ -189,6 +189,10 @@ li {
    margin-bottom: 60px;
 }
 
+.row {
+    margin-right: 0 !important;
+}
+
 .blue {
     background-color: #d7e8ef !important;
     width: 100% !important;
