@@ -243,21 +243,21 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8px;
-    margin-bottom: 8px;    
+    padding-top: 8px;
+    padding-bottom: 8px;    
 }
     #footer-img-2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8px;
-    margin-bottom: 8px;    
+    padding-top: 8px;
+    padding-bottom: 8px;    
 }
     #footer-img-3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8px;
-    margin-bottom: 8px;    
+    padding-top: 8px;
+    padding-bottom: 8px;    
 }
 }
