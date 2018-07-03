@@ -238,20 +238,26 @@ li {
   padding-top: 16px;
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 991px) {
     #footer-img-1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;    
 }
     #footer-img-2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;    
 }
     #footer-img-3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;    
 }
 }
