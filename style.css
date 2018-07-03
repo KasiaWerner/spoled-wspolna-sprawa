@@ -161,6 +161,10 @@ li {
     }
 }
 
+.col-md-10 .col-md-offset-1 {
+    
+    padding-left: 30px !important;  
+}
 
 .tytul {
   text-align: center;  
