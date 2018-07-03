@@ -248,21 +248,21 @@ li {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding-top: 8px;
-        padding-bottom: 8px;    
+        padding-top: 15px;
+        padding-bottom: 15px;   
 }
     #footer-img-2 {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding-top: 8px;
-        padding-bottom: 8px;  
+        padding-top: 15px;
+        padding-bottom: 15px;  
 }
     #footer-img-3 {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding-top: 8px;
-        padding-bottom: 8px;    
+       padding-top: 15px;
+        padding-bottom: 15px;    
 }
 }
