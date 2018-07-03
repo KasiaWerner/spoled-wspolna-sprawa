@@ -163,8 +163,12 @@ li {
 }
 
 .col-md-10 {
-    
     padding-left: 30px !important;  
+}
+
+.col-md-4 {
+   padding-top: 10px !important;
+   padding-bottom: 10px !important;
 }
 
 .tytul {
