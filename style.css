@@ -18,6 +18,10 @@ p {
     
 }
 
+a {
+    color: #2b618c !important;
+}
+
 li {
     font-size: 16px !important;
 }
