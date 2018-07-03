@@ -239,25 +239,30 @@ li {
 }
 
 @media screen and (max-width: 991px) {
+    
+    #site-footer {
+        text-align: center;
+    }
+    
     #footer-img-1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 8px;
-    padding-bottom: 8px;    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 8px;
+        padding-bottom: 8px;    
 }
     #footer-img-2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 8px;
-    padding-bottom: 8px;  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 8px;
+        padding-bottom: 8px;  
 }
     #footer-img-3 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 8px;
-    padding-bottom: 8px;    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 8px;
+        padding-bottom: 8px;    
 }
 }
