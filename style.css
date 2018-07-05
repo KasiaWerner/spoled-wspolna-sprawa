@@ -216,11 +216,6 @@ li {
     margin-top: 20px;
 }
 
-.myImage {
-  margin-right: 10px;
-  margin-bottom: 0px;
-}
-
 .image-left {
   max-width: 100%;
   float: left !important;
@@ -228,8 +223,12 @@ li {
 
 .image-center{
   max-width: 100%;
-  max-height: 250px;  
-  float: left !important;
+  max-height: 250px !important;  
+}
+
+.myImage {
+  margin-right: 10px;
+  margin-bottom: 0px;
 }
 
 .films {
