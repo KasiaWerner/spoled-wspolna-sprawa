@@ -221,14 +221,17 @@ li {
   float: left !important;
 }
 
-.image-center{
-  max-width: 100%;  
+.image-center{ 
 }
 
 .myImage {
   margin-right: 10px;
   margin-bottom: 0px;
-  max-height: 250px !important;  
+}
+
+.img-responsive {
+    max-width: 100%;
+    max-height: 250px !important;  
 }
 
 .films {
