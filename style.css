@@ -221,8 +221,7 @@ li {
   float: left !important;
 }
 
-.image-center{ 
-}
+
 
 .myImage {
   margin-right: 10px;
@@ -236,11 +235,11 @@ li {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
-    max-height: 400px !important;  
+    max-height: 350px !important;  
 }
 
 .description {
-    margin-top: 30px;
+    margin-top: 40px;
 }
     
 
