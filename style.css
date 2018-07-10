@@ -249,6 +249,12 @@ li {
 }
 
 .img-puzzle{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
     max-height: 400px !important;  
 }
 
