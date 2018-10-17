@@ -28,6 +28,18 @@ li {
     font-size: 16px !important;
 }
 
+li.navbar {
+    font-size: 16px !important;
+}
+
+@media (min-width: 768px) and (max-width: 768px) {
+    
+    li.navbar {
+    font-size: 13px !important;
+    }
+
+}
+
 .navbar {
     padding-top: 6px !important;
     padding-bottom: 6px !important;
