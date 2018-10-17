@@ -28,13 +28,13 @@ li {
     font-size: 16px !important;
 }
 
-li.menu>a{
+li{
     font-size: 16px !important;
 }
 
 @media (min-width: 768px) and (max-width: 768px) {
     
-    li.navbar {
+   .navbar-default .navbar-nav>li>a  {
     font-size: 13px !important;
     }
 
